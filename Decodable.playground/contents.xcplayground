@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true'>
+    <pages>
+        <page name='Simple Example'/>
+        <page name='Normal Example'/>
+        <page name='Coding Keys'/>
+        <page name='Decoder'/>
+        <page name='Decodificar un Array'/>
+        <page name='DecodingStrategy'/>
+    </pages>
+</playground>
